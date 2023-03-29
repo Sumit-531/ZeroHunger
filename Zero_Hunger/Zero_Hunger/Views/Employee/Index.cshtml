@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ZeroHunger.Ef.Models.CollectRequests>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CrId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ResId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CollectionDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FoodType)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CrId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmployeeId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ResId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CollectionDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FoodType)
+        </td>
+        <td>
+            @Html.ActionLink("Accept", "Details", new { id = item.CrId })
+        </td>
+    </tr>
+}
+
+</table>

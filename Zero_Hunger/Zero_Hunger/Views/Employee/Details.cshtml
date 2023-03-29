@@ -1,0 +1,57 @@
+﻿@model ZeroHunger.Ef.Models.CollectRequests
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CollectRequests</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CrId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CrId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ResId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ResId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CollectionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CollectionDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FoodType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FoodType)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Confirm", "Ditribution", new { id = Model.CrId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

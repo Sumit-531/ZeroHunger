@@ -1,0 +1,171 @@
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Zero_Hunger.dll.config
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Zero_Hunger.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Zero_Hunger.pdb
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\csc.exe
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\csc.exe.config
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\csc.rsp
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\csi.exe
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\csi.exe.config
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\csi.rsp
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.AppContext.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Collections.Immutable.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Console.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Globalization.Calendars.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.IO.Compression.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.IO.FileSystem.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Net.Http.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Net.Sockets.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Reflection.Metadata.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.ValueTuple.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Xml.XPath.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\vbc.exe
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\vbc.exe.config
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\vbc.rsp
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\VBCSCompiler.exe
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\roslyn\VBCSCompiler.exe.config
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Antlr3.Runtime.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\EntityFramework.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\EntityFramework.SqlServer.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Microsoft.Web.Infrastructure.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Newtonsoft.Json.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.Helpers.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.Mvc.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.Optimization.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.Razor.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.Deployment.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.Razor.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\WebGrease.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\EntityFramework.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\EntityFramework.SqlServer.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.Helpers.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.Mvc.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.Optimization.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.Razor.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.Deployment.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.Razor.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Newtonsoft.Json.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Antlr3.Runtime.pdb
+G:\Spring_23\Zero_Hunger\Zero_Hunger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Spring_23\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.csproj.AssemblyReference.cache
+G:\Spring_23\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.csproj.CoreCompileInputs.cache
+G:\Spring_23\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.csproj.CopyComplete
+G:\Spring_23\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.dll
+G:\Spring_23\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.pdb
+G:\Spring_23\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.Migrations.addmigraionAllTableAded.resources
+G:\Spring_23\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.csproj.GenerateResource.cache
+G:\Spring_23\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.Migrations.Changed.resources
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Zero_Hunger.dll.config
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Zero_Hunger.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Zero_Hunger.pdb
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\csc.exe
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\csc.exe.config
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\csc.rsp
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\csi.exe
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\csi.exe.config
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\csi.rsp
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.AppContext.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Collections.Immutable.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Console.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Globalization.Calendars.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.IO.Compression.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.IO.FileSystem.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Net.Http.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Net.Sockets.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.ValueTuple.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Xml.XPath.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\vbc.exe
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\vbc.exe.config
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\vbc.rsp
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\VBCSCompiler.exe
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\roslyn\VBCSCompiler.exe.config
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Antlr3.Runtime.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\EntityFramework.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\EntityFramework.SqlServer.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Newtonsoft.Json.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.Helpers.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.Mvc.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.Optimization.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.Razor.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.Deployment.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.Razor.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\WebGrease.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\EntityFramework.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\EntityFramework.SqlServer.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.Helpers.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.Mvc.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.Optimization.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.Razor.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.Deployment.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\System.Web.WebPages.Razor.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Newtonsoft.Json.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Antlr3.Runtime.pdb
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.csproj.AssemblyReference.cache
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.csproj.CoreCompileInputs.cache
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.csproj.CopyComplete
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.dll
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.pdb
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.Migrations.create.resources
+E:\Study\02. Current semesters\Spring 23\1. Mid\ADVANCED PROGRAMMING WITH .NET\Zero-Hunger-main\Zero_Hunger\Zero_Hunger\obj\Debug\Zero_Hunger.csproj.GenerateResource.cache
